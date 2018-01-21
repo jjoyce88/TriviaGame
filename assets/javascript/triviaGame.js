@@ -143,23 +143,23 @@ round13 = {
 },
 
 round14 = {
-	question: "",
-	answer1: "",
-	answer2: "",
-	answer3: "",
-	answer4: "",
+	question: "Which of these characters is a veteran in Smash 4?",
+	answer1: "Pac-Man",
+	answer2: "Little Mac",
+	answer3: "Villager",
+	answer4: "Mewtwo",
 	correctAnswer: 4,
-	comment: ""
+	comment: "Although he was not included in Brawl, Mewtwo made his first debut in Melee, thus making him a returning character"
 },
 
 round15 = {
-	question: "",
-	answer1: "",
-	answer2: "",
-	answer3: "",
-	answer4: "",
+	question: "Which of the following characters is on the \"Perfect Attendance Crew\"?",
+	answer1: "Link",
+	answer2: "Diddy Kong",
+	answer3: "Falco",
+	answer4: "Pichu",
 	correctAnswer: 1,
-	comment: ""
+	comment: "The Perfect Attendance Crew is the 12 characters that have been in all Smash Bros games. They are Mario, Donkey Kong, Link, Samus, Yoshi, Kirby, Fox, Pikachu, Luigi, Captain Falcon, Ness, and Jigglypuff"
 },
 
 round16 = {
