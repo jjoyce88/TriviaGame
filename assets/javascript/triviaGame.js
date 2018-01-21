@@ -143,73 +143,73 @@ round13 = {
 },
 
 round14 = {
-	question: "",
-	answer1: "",
-	answer2: "",
-	answer3: "",
-	answer4: "",
+	question: "Which of these characters is a veteran in Smash 4?",
+	answer1: "Pac-Man",
+	answer2: "Little Mac",
+	answer3: "Villager",
+	answer4: "Mewtwo",
 	correctAnswer: 4,
-	comment: ""
+	comment: "Although he was not included in Brawl, Mewtwo made his first debut in Melee, thus making him a returning character"
 },
 
 round15 = {
-	question: "",
-	answer1: "",
-	answer2: "",
-	answer3: "",
-	answer4: "",
+	question: "Which of the following characters is on the \"Perfect Attendance Crew\"?",
+	answer1: "Link",
+	answer2: "Diddy Kong",
+	answer3: "Falco",
+	answer4: "Pichu",
 	correctAnswer: 1,
-	comment: ""
+	comment: "The Perfect Attendance Crew is the 12 characters that have been in all Smash Bros games. They are Mario, Donkey Kong, Link, Samus, Yoshi, Kirby, Fox, Pikachu, Luigi, Captain Falcon, Ness, and Jigglypuff"
 },
 
 round16 = {
-	question: "",
-	answer1: "",
-	answer2: "",
-	answer3: "",
-	answer4: "",
+	question: "How many different enemies appear on Pyrosphere?",
+	answer1: "1",
+	answer2: "4",
+	answer3: "5",
+	answer4: "3",
 	correctAnswer: 2,
-	comment: ""
+	comment: "These enemies include FG II-Grahams, Joulions, Zeroes, and - the main hazard of the stage, and Samus' arch enemy - Ridley"
 },
 
 round17 = {
-	question: "",
-	answer1: "",
-	answer2: "",
-	answer3: "",
-	answer4: "",
+	question: "What is the name of Diddy Kong's famous Down Throw to Up Air combo?",
+	answer1: "Ding-Dong",
+	answer2: "Hah-Hah",
+	answer3: "Hoo-Hah",
+	answer4: "Wombo Combo",
 	correctAnswer: 3,
-	comment: ""
+	comment: "The combo inspired people to name the Dthrow -> Uair combos of other characters, such as R.O.B.'s Beep-Boop, Bowser's Koo-Pa, and Mr. Game & Watch's Toot Toot"
 },
 
 round18 = {
-	question: "",
-	answer1: "",
-	answer2: "",
-	answer3: "",
-	answer4: "",
+	question: "What is the term used for grabbing the ledge of the stage immediately after an opponent to force them off of it?",
+	answer1: "Ledge Trump",
+	answer2: "Edge-Hogging",
+	answer3: "Ledge Snap",
+	answer4: "Edge-Guarding",
 	correctAnswer: 1,
-	comment: ""
+	comment: "Though it is a difficult technique to master, ledge trumping is a very effective edgeguarding tool, as it can leave the opponent vulnerable once they let go of the ledge"
 },
 
 round19 = {
-	question: "",
-	answer1: "",
-	answer2: "",
-	answer3: "",
-	answer4: "",
+	question: "What is the maximum amount of damage that a counter attack can deal?",
+	answer1: "100",
+	answer2: "75",
+	answer3: "50",
+	answer4: "52",
 	correctAnswer: 4,
-	comment: ""
+	comment: "No matter how powerful the countered attack is, the counter will always cap off at 52%"
 },
 
 round20 = {
-	question: "",
-	answer1: "",
-	answer2: "",
-	answer3: "",
-	answer4: "",
+	question: "What is the strongest single attack in Smash 4?",
+	answer1: "Dedede's Fsmash",
+	answer2: "Flare Blade",
+	answer3: "Aura Sphere",
+	answer4: "Giant Punch",
 	correctAnswer: 2,
-	comment: ""
+	comment: "Roy's fully charged Flare Blade deals a whopping 50% - the highest damage that any move can do by itself without the assistance of reflectors or counters"
 }
 
 ];
