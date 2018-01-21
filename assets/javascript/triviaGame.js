@@ -93,23 +93,23 @@ round8 = {
 },
 
 round9 = {
-	question: "",
-	answer1: "",
-	answer2: "",
-	answer3: "",
-	answer4: "",
+	question: "Who has the least traction in Smash 4?",
+	answer1: "Palutena",
+	answer2: "Corrin",
+	answer3: "Ganondorf",
+	answer4: "Luigi",
 	correctAnswer: 4,
-	comment: ""
+	comment: "In fact, he's so slippery that some moves are safe on his shield when they usually aren't because Luigi slides so far back"
 },
 
 round10 = {
-	question: "",
-	answer1: "",
-	answer2: "",
-	answer3: "",
-	answer4: "",
+	question: "What is the term for dashing backwards and immediately turning back around without any lag?",
+	answer1: "Dash Turnaround",
+	answer2: "Perfect Pivot",
+	answer3: "Pivot",
+	answer4: "Dash-Cancel",
 	correctAnswer: 2,
-	comment: ""
+	comment: "The technique is frame-perfect and difficult to master, but it can be a very useful tool for spacing"
 },
 
 round11 = {
@@ -123,23 +123,23 @@ round11 = {
 },
 
 round12 = {
-	question: "",
-	answer1: "",
-	answer2: "",
-	answer3: "",
-	answer4: "",
+	question: "Which of the following is thought to be the best character in doubles (2v2) games?",
+	answer1: "Mario",
+	answer2: "Bayonetta",
+	answer3: "Cloud",
+	answer4: "Diddy Kong",
 	correctAnswer: 3,
-	comment: ""
+	comment: "In fact, many people believe that Cloud should be banned from doubles altogether in tournaments due to how well the character can carry at team"
 },
 
 round13 = {
-	question: "",
-	answer1: "",
-	answer2: "",
-	answer3: "",
-	answer4: "",
+	question: "By how much does Villager's Pocket multiply a projectile or item's base damage?",
+	answer1: "x2.0",
+	answer2: "x1.9",
+	answer3: "x1.1",
+	answer4: "x1.5",
 	correctAnswer: 2,
-	comment: ""
+	comment: "The move has one of the best projectile damage multipliers in the game. It is second only to Ness' Forward Smash, which has a multiplier of x2.0"
 },
 
 round14 = {
